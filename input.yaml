@@ -1,0 +1,3 @@
+cohort.name: pediseq.test # required
+manifest: pediseq.manifest.txt # required
+outputDir: /mnt/isilon/cbmi/variome/ramki/temp/Exomedepth/ # required
