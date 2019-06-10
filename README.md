@@ -8,7 +8,7 @@
   * purrr (package)
   * readr (package)
 
-## Running on respublica
+## Running on SGE environment
 
   * Needs a tab-delimited manifest (column1 - bam, column2 - sample name, column3 - sex)
   * input.yaml needs to be edited to reflect the name of the manifest file and the name of the cohort.
